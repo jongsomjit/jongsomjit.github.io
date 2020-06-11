@@ -2,4 +2,4 @@
 
 Welcome to my index.
 
-[about page]{about.md)
+[about page](about.md)
