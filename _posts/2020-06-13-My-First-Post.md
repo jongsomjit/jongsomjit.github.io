@@ -7,7 +7,7 @@ categories:
 tags:
   - personal
   - perspective
-
+excerpt:"This is the excerpt"
 ---
 
 This is my first test post.
