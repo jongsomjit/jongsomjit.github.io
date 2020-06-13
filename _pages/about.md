@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 header:
-  overlay_image: /images/threekings.jpg
+  image: /images/threekings.jpg
 ---
 
 
