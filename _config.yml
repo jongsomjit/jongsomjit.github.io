@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Dennis Jongsomjit"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : avatar.jpg"
   bio              : "Student, ecologist, human being."
   location         : "Petaluma, CA"
   email            :
