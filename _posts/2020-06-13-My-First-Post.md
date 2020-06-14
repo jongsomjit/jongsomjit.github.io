@@ -1,13 +1,18 @@
 ---
 permalink: /posts/
-title: "My first post"
+title: "The Shape Shifter"
 date: 2020-06-13 15:00:00 -0000
 categories: 
   - blog
 tags:
   - personal
   - perspective
+  - race
 excerpt:"This is the excerpt"
 ---
 
-This is my first test post.
+The schoolbus pulled up to the curb. Outside, my neighbors eldest son was waiting for me. He was sent to get me because he was large (6’1’’, 225lbs) and this was not a good day for a skinny nerdy 15 year old to be walking home alone. The verdicts had come in for the LAPD/Rodney King beating trial - not guilty, not guilty, not guilty. The streets of central Los Angeles blew up, literally.  It was like a pent up rage against the police had finally been allowed to explode and the pieces shattered all around my neighborhood. From the roof of my apartment, we could see people smashing storefront windows and the black smoke from fires rising across the city. Over the next few days, as thousands of stores were looted and burned and hundreds of innocent people brutally beaten or killed, the message that was being sent was clear. Fuck the police. Fuck the LAPD.
+
+At home, I looked into my closet and stared at my light blue uniform. Stitched onto its patches in golden thread were the words “LAPD Explorer”. The Explorers took in teenagers and tried to connect them to the ways of law enforcement through leadership training, community service, and camaraderie.  I knew several police officers whom I considered colleagues or even friends. And here I was, in the center of one of the worst hit areas being smashed because of hatred for law enforcement. But this was my neighbhorhood. This was were I grew up.  I knew some of those people smashing windows and grabbing loot. So I stood there, one foot on either side of a steel wall that separated the ideologies of law enforcement from the often harsh realities of living in poverty. I now realize that this was nothing new to me. Straddling the border of two distinctly different worlds was something I had to deal with over and over again throughout my childhood. These experiences are what has shaped my views…
+
+I was born the son of a Guatemalan mother and a Thai father.  I look more Asian and my mom would lovingly call me her “chinito”. My first language was Spanish. My mom enrolled me in Catholic classes on Satudays. On Sundays my dad would take my brothers and I to the Buddhist temple to pray. As a kid I took it mostly all in stride. It was a joyful thing to be enjoying tamales one day then slurping down Pad Thai the next day. It was my normal and it was delicious. But I was also often in a state of internal conflict. In elementary school, which was almost 50% Latino students and 50% Korean students, I was often asked, “What are you?” - I was not fitting into one of the two buckets very well. This is where my internal conflict hatched and grew.  I always knew who I was, but when a group of kids would ask me what I was, I found myself negotiating my identity.  If I wanted to “fit”, my identity would shift according to the situation.  Racism runs deep and it ran deeper back in the 80’s. Since I looked more Asian I was often labeled as a nerd. There was a vicous rhyme in Spanish that some would recite essentially saying that if you’re Chinese or Japanese you should go eat shit. In movies Asians were only good for solving math problems and no way in hell were they getting laid. I strived for congruence and if I wanted to be Latino, I would highlight that. If I wanted to be Asian, I’d whip that right up. Everyone wanted to fit me into their pre-defined buckets and so to reduce the friction I was doing a lot of shape shifting.
