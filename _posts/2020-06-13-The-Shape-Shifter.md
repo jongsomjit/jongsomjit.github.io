@@ -2,7 +2,14 @@
 layout: posts
 title: "The Shape Shifter"
 date: 2020-06-13 15:00:00 -0000
-
+categories: 
+  - blog
+tags:
+  - personal
+  - perspective
+  - race
+  -	ethnicity
+excerpt:"Living between two worlds and learning to bring them into harmony."
 ---
 
 
