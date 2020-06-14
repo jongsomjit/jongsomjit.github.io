@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "The Shape Shifter"
 permalink: /posts/
 date: 2020-06-13 15:00:00 -0000
