@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "unStandard Deviation"
 title_separator          : "-"
-subtitle                 : "Taking the indirect route through life."
+subtitle                 : #"Taking the indirect route through life."
 name                     : "Dennis Jongsomjit"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
