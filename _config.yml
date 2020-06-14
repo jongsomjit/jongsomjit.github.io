@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "unStandard Deviation"
 title_separator          : "-"
-subtitle                 : #"Taking the indirect route through life."
+subtitle                 : "Sharing stories on science, life, and everything in between."
 name                     : "Dennis Jongsomjit"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #/images/anglenon.png
-masthead_title           : "welcome"
+masthead_title           : ""
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
