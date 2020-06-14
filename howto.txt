@@ -2,3 +2,6 @@ To add a nav link at the top of a page.
 1. add a folder (e.g. _pages) that will contain your markdown files
 2. edit the navigation.yaml with a title and url to the folder
 3. Adjust the default settings in the config.yaml file
+
+To add an image inline:
+<img src="{{ site.url }}{{ site.baseurl }}/images/imagename.jpg" alt="">
