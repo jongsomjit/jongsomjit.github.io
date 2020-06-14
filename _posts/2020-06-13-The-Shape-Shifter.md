@@ -2,11 +2,14 @@
 layout: posts
 title: "The Shape Shifter"
 date: 2020-06-13 15:00:00 -0000
-tags: race ethnicity perspective
-
+tags:
+  - personal
+  - perspective
+  - race
+  -	ethnicity
 ---
 
-x
+
 The schoolbus pulled up to the curb. Outside, my neighbors eldest son was waiting for me. He was sent to get me because he was large (6’1’’, 225lbs) and this was not a good day for a skinny nerdy 15 year old to be walking home alone. The verdicts had come in for the LAPD/Rodney King beating trial - not guilty, not guilty, not guilty. The streets of central Los Angeles blew up, literally.  It was like a pent up rage against the police had finally been allowed to explode and the pieces shattered all around my neighborhood. From the roof of my apartment, we could see people smashing storefront windows and the black smoke from fires rising across the city. Over the next few days, as thousands of stores were looted and burned and hundreds of innocent people brutally beaten or killed, the message that was being sent was clear. Fuck the police. Fuck the LAPD.
 
 At home, I looked into my closet and stared at my light blue uniform. Stitched onto its patches in golden thread were the words “LAPD Explorer”. The Explorers took in teenagers and tried to connect them to the ways of law enforcement through leadership training, community service, and camaraderie.  I knew several police officers whom I considered colleagues or even friends. And here I was, in the center of one of the worst hit areas being smashed because of hatred for law enforcement. But this was my neighbhorhood. This was were I grew up.  I knew some of those people smashing windows and grabbing loot. So I stood there, one foot on either side of a steel wall that separated the ideologies of law enforcement from the often harsh realities of living in poverty. I now realize that this was nothing new to me. Straddling the border of two distinctly different worlds was something I had to deal with over and over again throughout my childhood. These experiences are what has shaped my views…
