@@ -8,7 +8,7 @@ tags:
   - personal
   - perspective
   - race
-excerpt:"This is the excerpt"
+excerpt:"Living between two worlds and learning to bring them into harmony."
 ---
 
 The schoolbus pulled up to the curb. Outside, my neighbors eldest son was waiting for me. He was sent to get me because he was large (6’1’’, 225lbs) and this was not a good day for a skinny nerdy 15 year old to be walking home alone. The verdicts had come in for the LAPD/Rodney King beating trial - not guilty, not guilty, not guilty. The streets of central Los Angeles blew up, literally.  It was like a pent up rage against the police had finally been allowed to explode and the pieces shattered all around my neighborhood. From the roof of my apartment, we could see people smashing storefront windows and the black smoke from fires rising across the city. Over the next few days, as thousands of stores were looted and burned and hundreds of innocent people brutally beaten or killed, the message that was being sent was clear. Fuck the police. Fuck the LAPD.
