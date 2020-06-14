@@ -1,9 +1,9 @@
 # main links
 main:
+  - title: "Home"
+    url: /jongsomjit.github.io
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /posts/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 

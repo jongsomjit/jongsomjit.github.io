@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #/images/anglenon.png
-masthead_title           : ""# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Home"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Dennis Jongsomjit"
-  avatar           : "/images/avatar.jpg"
+  avatar           : "/images/anglenon.png"
   bio              : "Student, ecologist, human being."
   location         : "Petaluma, CA"
   email            :
