@@ -9,7 +9,6 @@ tags:
   - perspective
   - race
   -	ethnicity
-excerpt:"Living between two worlds and learning to bring them into harmony."
 ---
 
 
