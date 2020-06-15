@@ -19,4 +19,4 @@ provide a brief overview of critical cartography concepts and findings since its
 in the 1980’s. I will then review how concepts from critical cartography have been used to highlight
 shortcomings and problems in conservation maps.
 
-Read the full paper [here](/_posts/Critical_conservation_cartography_djongsomjit.pdf)
+Read the full paper [here]<a id="raw-url" href="https://github.com/jongsomjit/jongsomjit.github.io/blob/master/_posts/Critical_conservation_cartography_djongsomjit.pdf">Download FILE</a>
