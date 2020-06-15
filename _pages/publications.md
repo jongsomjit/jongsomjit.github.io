@@ -42,6 +42,7 @@ Wiens, J.A., Seavy, N.E., & Jongsomjit, D. (2011) Protected areas in climate spa
 
 
 ##Wildlife Monitoring
+
 Jongsomjit, D., Tietz, J.R., Michaile, S., Fonseca, T., & Geupel, G.R. (2012) Le Conte’s Thrasher monitoring in the Carrizo National Monument. Report to the Bureau of Land Management. PRBO Contribution #1886
 
 Burnett, R., Jongsomjit, D., & Stralberg, D. (2009) Avian monitoring in the Lassen 
@@ -52,6 +53,7 @@ Jongsomjit D., Jones S.L., Gardali T., Geupel G.R., & Gouse P.J. (2007) A Guide 
 
 
 ##Webtools
+
 Veloz, S., Fitzgibbon, M., Stralberg, D., Michaile, S., Jongsomjit, D., Moody, D., Nur, N., Salas, L., Wood, J., & Ballard, G. (2011) San Francisco Bay sea level rise: Climate change scenarios for tidal marsh habitats. [web application]. Petaluma, California.  http://data.prbo.org/apps/sfbslr
 
 Ballard, G., Herzog, M., Fitzgibbon, M., Moody, D., Jongsomjit, D., & Stralberg, D. (2008). The California Avian Data Center. [web application]. Petaluma, California. http://www.pointblue.org/cadc.
