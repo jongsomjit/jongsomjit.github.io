@@ -1,4 +1,5 @@
 ---
+permalink: /publications/
 layout: pages
 title: "Publications"
 header:
