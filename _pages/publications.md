@@ -7,6 +7,8 @@ header:
 
 # Select Publications
 
+Check out [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=TX8TAAkAAAAJ) for a more complete list.
+
 ## Conservation Planning
 
 Reiter, M. E., Elliott, N., Veloz, S., Jongsomjit, D., Hickey, C. M., Merrifield, M., & Reynolds, M. D. (2015). Spatio‐temporal patterns of open surface water in the Central Valley of California 2000‐2011: drought, land cover, and waterbirds. JAWRA Journal of the American Water Resources Association, 51(6), 1722-1738.
