@@ -5,7 +5,7 @@ date: 2020-06-10 15:00:00 -0000
 
 ---
 
-This is a literture review paper covering the topic of critical cartography as it relates to conservation. It was written in my first seminar course in geography at SFSU which was a pleasure to take and where I learned so much
+This is a literature review paper covering the topic of critical cartography as it relates to conservation. It was written in my first seminar course in geography at SFSU which was a pleasure to take and where I learned so much
 about the breadth and scope of geography.  
 
 
@@ -20,5 +20,6 @@ in the 1980’s. I will then review how concepts from critical cartography have 
 shortcomings and problems in conservation maps.
 
 
-Read the full paper <a id="raw-url" href="https://github.com/jongsomjit/jongsomjit.github.io/blob/master/_posts/Critical_conservation_cartography_djongsomjit.pdf" download="cons_cart.pdf">here</a>
+
+Read the full paper <a id="raw-url" href="https://github.com/jongsomjit/jongsomjit.github.io/raw/master/_posts/Critical_conservation_cartography_djongsomjit.pdf" download="cons_cart.pdf">here</a>
 
