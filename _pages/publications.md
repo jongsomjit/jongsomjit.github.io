@@ -1,5 +1,5 @@
 ---
-layout: pages
+permalink: /publications/
 title: "Publications"
 header:
   overlay_image: /images/threekings_thin.jpg
