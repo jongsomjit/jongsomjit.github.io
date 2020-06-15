@@ -24,7 +24,9 @@ Wiens, J.A., Seavy, N.E., & Jongsomjit, D. (2011) Protected areas in climate spa
 
 ## Wildlife Ecology and Habitat Suitability Modeling
 
-Lescroël, A., Lyver, P. O. B., Jongsomjit, D., Veloz, S., Dugger, K. M., Kappes, P., ... & Ballard, G. (2020). Inter-individual differences in the foraging behavior of breeding Adélie penguins are driven by individual quality and sex. Marine Ecology Progress Series, 636, 189-205.
+Lescroël, A., Lyver, P. O. B., Jongsomjit, D., Veloz, S., Dugger, K. M., Kappes, P., Karl, B.J., Whitehead, A.L., & Ballard, G. (2020). Inter-individual differences in the foraging behavior of breeding Adélie penguins are driven by individual quality and sex. Marine Ecology Progress Series, 636, 189-205.
+
+Ballard, G., Schmidt, A. E., Toniolo, V., Veloz, S., Jongsomjit, D., Arrigo, K. R., & Ainley, D. G. (2019). Fine-scale oceanographic features characterizing successful Adélie penguin foraging in the SW Ross Sea. Marine Ecology Progress Series, 608, 263-277.
 
 Ainley, D. G., Ballard, G., Jones, R. M., Jongsomjit, D., Pierce, S. D., Smith Jr, W. O., & Veloz, S. (2015). Trophic cascades in the western Ross Sea, Antarctica: revisited. Marine Ecology Progress Series, 534, 1-16.
 
