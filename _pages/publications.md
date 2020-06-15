@@ -7,6 +7,17 @@ header:
 
 #Select Publications
 
+##Conservation Planning
+
+Reiter, M. E., Elliott, N., Veloz, S., Jongsomjit, D., Hickey, C. M., Merrifield, M., & Reynolds, M. D. (2015). Spatio‐temporal patterns of open surface water in the Central Valley of California 2000‐2011: drought, land cover, and waterbirds. JAWRA Journal of the American Water Resources Association, 51(6), 1722-1738.
+
+Veloz, S.D., Nur, N., Salas, L. Jongsomjit, D., Stralberg, D., Wood, J. K., & Ballard, G. (2013) Modeling climate change impacts on tidal marsh birds: Restoration and conservation planning in the face of uncertainty. Ecosphere 4:49.http://dx.doi.org/10.1890/ES12-00341.1
+
+Jongsomjit, D., Stralberg, D., Gardali, T., Salas, L., & Wiens, J. (2013) Between a rock and a hard place: the impacts of climate change and housing development on breeding birds in California. Landscape Ecol 28, 187–200. 
+
+Seavy, N. E., Gardali, T., Golet, G. H., Jongsomjit, D., Kelsey, R., Matsumoto, S., Paine, S., & Stralberg, D. (2012) Integrating Avian Habitat Distribution Models into a Conservation Planning Framework for the San Joaquin River, California, USA. Natural Areas Journal, 32, 420-426.
+
+Wiens, J.A., Seavy, N.E., & Jongsomjit, D. (2011) Protected areas in climate space: What will the future bring? Biological Conservation 144, 2119–2125.
 
 
 ##Wildlife Ecology and Habitat Suitability Modeling
@@ -28,17 +39,6 @@ Climates, and Niche Evolution Sackler Colloquium: Niches, models, and climate ch
 Assessing the assumptions and uncertainties. Proc Natl Acad Sci U. S. A. 106, 19729-19736.
 
 
-##Conservation Planning
-
-Reiter, M. E., Elliott, N., Veloz, S., Jongsomjit, D., Hickey, C. M., Merrifield, M., & Reynolds, M. D. (2015). Spatio‐temporal patterns of open surface water in the Central Valley of California 2000‐2011: drought, land cover, and waterbirds. JAWRA Journal of the American Water Resources Association, 51(6), 1722-1738.
-
-Veloz, S.D., Nur, N., Salas, L. Jongsomjit, D., Stralberg, D., Wood, J. K., & Ballard, G. (2013) Modeling climate change impacts on tidal marsh birds: Restoration and conservation planning in the face of uncertainty. Ecosphere 4:49.http://dx.doi.org/10.1890/ES12-00341.1
-
-Jongsomjit, D., Stralberg, D., Gardali, T., Salas, L., & Wiens, J. (2013) Between a rock and a hard place: the impacts of climate change and housing development on breeding birds in California. Landscape Ecol 28, 187–200. 
-
-Seavy, N. E., Gardali, T., Golet, G. H., Jongsomjit, D., Kelsey, R., Matsumoto, S., Paine, S., & Stralberg, D. (2012) Integrating Avian Habitat Distribution Models into a Conservation Planning Framework for the San Joaquin River, California, USA. Natural Areas Journal, 32, 420-426.
-
-Wiens, J.A., Seavy, N.E., & Jongsomjit, D. (2011) Protected areas in climate space: What will the future bring? Biological Conservation 144, 2119–2125.
 
 
 ##Wildlife Monitoring
