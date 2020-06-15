@@ -1,5 +1,4 @@
 ---
-permalink: /publications/
 layout: pages
 title: "Publications"
 header:
@@ -40,6 +39,7 @@ Jongsomjit, D., Stralberg, D., Gardali, T., Salas, L., & Wiens, J. (2013) Betwee
 Seavy, N. E., Gardali, T., Golet, G. H., Jongsomjit, D., Kelsey, R., Matsumoto, S., Paine, S., & Stralberg, D. (2012) Integrating Avian Habitat Distribution Models into a Conservation Planning Framework for the San Joaquin River, California, USA. Natural Areas Journal, 32, 420-426.
 
 Wiens, J.A., Seavy, N.E., & Jongsomjit, D. (2011) Protected areas in climate space: What will the future bring? Biological Conservation 144, 2119–2125.
+
 
 ##Wildlife Monitoring
 Jongsomjit, D., Tietz, J.R., Michaile, S., Fonseca, T., & Geupel, G.R. (2012) Le Conte’s Thrasher monitoring in the Carrizo National Monument. Report to the Bureau of Land Management. PRBO Contribution #1886
