@@ -1,5 +1,5 @@
 ---
-
+layout: pages
 title: "Publications"
 header:
   overlay_image: /images/threekings_thin.jpg
