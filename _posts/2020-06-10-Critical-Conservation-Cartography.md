@@ -2,7 +2,7 @@
 layout: posts
 title: "Critical Conservation Cartography"
 date: 2020-06-10 15:00:00 -0000
-
+tags: conservation
 ---
 
 This is a literature review paper covering the topic of critical cartography as it relates to conservation. It was written in my first seminar course in geography at SFSU which was a pleasure to take and where I learned so much
