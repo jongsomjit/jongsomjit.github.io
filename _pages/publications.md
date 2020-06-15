@@ -5,7 +5,7 @@ header:
   overlay_image: /images/threekings_thin.jpg
 ---
 
-#Select Publications.
+#Select Publications
 
 
 
