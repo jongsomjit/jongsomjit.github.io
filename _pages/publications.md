@@ -5,9 +5,9 @@ header:
   overlay_image: /images/threekings_thin.jpg
 ---
 
-#Select Publications
+# Select Publications
 
-##Conservation Planning
+## Conservation Planning
 
 Reiter, M. E., Elliott, N., Veloz, S., Jongsomjit, D., Hickey, C. M., Merrifield, M., & Reynolds, M. D. (2015). Spatio‐temporal patterns of open surface water in the Central Valley of California 2000‐2011: drought, land cover, and waterbirds. JAWRA Journal of the American Water Resources Association, 51(6), 1722-1738.
 
@@ -20,7 +20,7 @@ Seavy, N. E., Gardali, T., Golet, G. H., Jongsomjit, D., Kelsey, R., Matsumoto, 
 Wiens, J.A., Seavy, N.E., & Jongsomjit, D. (2011) Protected areas in climate space: What will the future bring? Biological Conservation 144, 2119–2125.
 
 
-##Wildlife Ecology and Habitat Suitability Modeling
+## Wildlife Ecology and Habitat Suitability Modeling
 
 Lescroël, A., Lyver, P. O. B., Jongsomjit, D., Veloz, S., Dugger, K. M., Kappes, P., ... & Ballard, G. (2020). Inter-individual differences in the foraging behavior of breeding Adélie penguins are driven by individual quality and sex. Marine Ecology Progress Series, 636, 189-205.
 
@@ -41,7 +41,7 @@ Assessing the assumptions and uncertainties. Proc Natl Acad Sci U. S. A. 106, 19
 
 
 
-##Wildlife Monitoring
+## Wildlife Monitoring
 
 Jongsomjit, D., Tietz, J.R., Michaile, S., Fonseca, T., & Geupel, G.R. (2012) Le Conte’s Thrasher monitoring in the Carrizo National Monument. Report to the Bureau of Land Management. PRBO Contribution #1886
 
@@ -52,7 +52,7 @@ PRBO Contribution. #1684.
 Jongsomjit D., Jones S.L., Gardali T., Geupel G.R., & Gouse P.J. (2007) A Guide to Nestling Development and Aging in Altricial Passerines. U.S. Dept. of Interior, Fish and Wildlife Service, Biological Technical Publication, FWS/BTP-R6008-2007, Washington, D.C. 
 
 
-##Webtools
+## Webtools
 
 Veloz, S., Fitzgibbon, M., Stralberg, D., Michaile, S., Jongsomjit, D., Moody, D., Nur, N., Salas, L., Wood, J., & Ballard, G. (2011) San Francisco Bay sea level rise: Climate change scenarios for tidal marsh habitats. [web application]. Petaluma, California.  http://data.prbo.org/apps/sfbslr
 
